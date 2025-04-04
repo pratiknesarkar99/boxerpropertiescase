@@ -1,0 +1,26 @@
+Script for Blockchain 1st presentation
+
+Thank you Sai, now let’s understand how the current process for handling tenant issues works and the key bottlenecks affecting efficiency and customer retention.
+
+Boxer properties has a big footprint around Houston, TX with over 3-4000 small, medium and big sized tenants occupying their office spaces. With that number, usually there are a lot of issues being reported on daily basis that need resolution.
+The level of accuracy and time taken to resolve these issues are some of the determining factors for client retention at the end of their lease. The current process for resolving client issues works as follows:
+	1.	“A tenant experiences an issue—like an air conditioning failure/a faulty door lock—and submits a ticket through the CRM.”
+	2.	“That ticket is then automatically assigned to the concerned property manager / their team. Updates are sent via email notification to the property manager and the client.”
+	3.	“The property manager reviews the ticket and attempts to resolve the issue. However, the outcome of this resolution depends on their availability, skill level, and workload.”
+
+While this process seems structured, in reality, resolution times and customer satisfaction vary significantly due to inefficiencies at multiple stages.
+
+Let us understand this with an example:
+Assuming a total of 100 tickets were raised each week. 85% get assigned to the concerned manager right away, but 15% remain in backlog due to manager unavailability or system inefficiencies.
+Of the assigned tickets, around 50-60% are resolved effectively. However, ~40% experience delays due to manual intervention, slow response times, or other workflow bottlenecks.
+Not just that, an alarming 10% of the tickets may go completely ignored or lost in the process, meaning some tenants never receive a resolution. As it was observed in the meeting with Mr. Mark, a property manager  named Candice was supped to address the issue of a tenant complaining about loud noise around their office space, but the ticket was there in the system open for over a month.
+There could be multiple reasons for this - Even when tickets are resolved, sometimes follow-ups are inconsistent and undocumented. Some property managers engage with tenants to ensure satisfaction, but others don’t—potentially leading to negative experiences and lost renewals.
+
+Our challenge isn’t just resolving tickets faster, but to step back, identify critical issues upfront and help Boxer employees to take proactive action, to ensure for a better tenant experience overall.
+
+For the purpose of our solution, we are focusing on these key challenge areas of the current process:
+As of today, the resolution process depends heavily on the assigned property managers  expertise. Some managers are experts and highly efficient, while others may be overwhelmed or lack the necessary urgency—leading to inconsistencies in service delivery.
+
+Not all issues are equal, but the current system lacks a clear way to prioritize the most critical tickets. This means urgent issues might be delayed while less urgent ones get resolved faster, impacting customer trust and satisfaction.
+
+Now I will pass on to Andrew to understand the rest of the challenge areas followed by our solution.
